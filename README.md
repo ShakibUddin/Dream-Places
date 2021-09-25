@@ -4,4 +4,4 @@
 - I can store places I want to see
 - I can also see the estimated travel cost
 
-== Live => https://dream-places.netlify.app/index.html ==
+Live => https://dream-places.netlify.app/index.html
