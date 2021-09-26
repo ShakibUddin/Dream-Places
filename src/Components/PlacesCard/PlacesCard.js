@@ -12,7 +12,7 @@ const PlacesCard = (props) => {
     return (
         <div className="place-card">
             <div>
-                <img className="image" src={process.env.PUBLIC_URL + image} alt="" />
+                <img className="image" src={image} alt="" />
                 <div className="place-content">
                     <p><span>Name:</span> {name}</p>
                     <p><span>Country:</span> {country}</p>

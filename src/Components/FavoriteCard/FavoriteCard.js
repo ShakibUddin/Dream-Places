@@ -6,7 +6,7 @@ const FavoriteCard = (props) => {
     let { name, country, image } = props.place;
     return (
         <div className="favorite-card animate__bounceIn">
-            <img className="favorite-image" src={process.env.PUBLIC_URL + image} alt="" />
+            <img className="favorite-image" src={image} alt="" />
             <p>{name}</p>
         </div>
     );

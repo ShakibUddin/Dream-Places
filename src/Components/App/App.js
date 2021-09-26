@@ -35,6 +35,7 @@ function App() {
           }
         </section>
         <section className="favorites">
+          <h1 className="favorites-title">My Favorites</h1>
           <h2>Total Selected: {totalSelected}</h2>
           <h2>Total Cost: ${totalCost}</h2>
           {

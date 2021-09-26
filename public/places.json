@@ -4,7 +4,7 @@
     "name": "Macca",
     "country": "Saudi Arabia",
     "rating": "4.72",
-    "image": "/images/1-resized.png",
+    "image": "https://images.unsplash.com/photo-1540871112484-09beaca00ec2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
     "description": "Mecca, in a desert valley in western Saudi Arabia, is Islam’s holiest city, as it’s the birthplace of the Prophet Muhammad and the faith itself.",
     "travelCost": "5728"
   },
@@ -13,7 +13,7 @@
     "name": "Bali",
     "country": "Indonesia",
     "rating": "3.20",
-    "image": "/images/2-resized.png",
+    "image": "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
     "description": "You’ll find beaches, volcanoes, Komodo dragons and jungles sheltering elephants, orangutans and tigers. Basically, it’s paradise. ",
     "travelCost": "6436"
   },
@@ -22,7 +22,7 @@
     "name": "Niagara Falls",
     "country": "Canada & USA",
     "rating": "3.13",
-    "image": "/images/3-resized.png",
+    "image": "https://images.unsplash.com/photo-1533094602577-198d3beab8ea?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
     "description": "Walk up to the edge of the falls, or take a boat tour for a close-up look at the water pouring over the lip of the gorge above you. ",
     "travelCost": "3228"
   },
@@ -31,7 +31,7 @@
     "name": "Mount Kilimanjaro",
     "country": "Africa",
     "rating": "4.67",
-    "image": "/images/4-resized.png",
+    "image": "https://images.unsplash.com/photo-1489392191049-fc10c97e64b6?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bW91bnQlMjBraWxpbWFuamFyb3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "description": "The highest peak in all of Africa, this majestic mountain - a dormant volcano - is one of the most recognizable symbols of the continent.",
     "travelCost": "6886"
   },
@@ -40,7 +40,7 @@
     "name": "Forbidden City",
     "country": "China",
     "rating": "3.82",
-    "image": "/images/5-resized.png",
+    "image": "https://images.unsplash.com/photo-1577706881850-bf7c7d8906a5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1632&q=80",
     "description": "Like the Great Wall, the Forbidden City in Beijing is one of the top places to visit in China. ",
     "travelCost": "2424"
   },
@@ -49,7 +49,7 @@
     "name": "Stonehenge",
     "country": "England",
     "rating": "3.54",
-    "image": "/images/6-resized.png",
+    "image": "https://images.unsplash.com/photo-1587447799393-4a52e64dfab9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3RvbmVoZW5nZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "description": "EngStonehenge is one of those places that makes you ponder what went on here over 4,500 years ago.",
     "travelCost": "6018"
   },
@@ -58,7 +58,7 @@
     "name": "Banff National Park",
     "country": "Canada",
     "rating": "3.27",
-    "image": "/images/7-resized.png",
+    "image": "https://images.unsplash.com/photo-1561134643-668f9057cce4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmFuZmYlMjBuYXRpb25hbCUyMHBhcmt8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "description": "The glacial lakes in Canada's first national park have some of the bluest water you've ever seen. ",
     "travelCost": "2581"
   },
@@ -67,7 +67,7 @@
     "name": "Pamukkale",
     "country": "Turkey",
     "rating": "4.40",
-    "image": "/images/8-resized.png",
+    "image": "https://images.unsplash.com/photo-1548618022-303d37216607?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGFtdWtrYWxlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "description": "Put every infinity pool you’ve ever seen to shame with these natural, snow-white hot springs overlooking the nearby city of Denizli. ",
     "travelCost": "8749"
   },
@@ -76,7 +76,7 @@
     "name": "Mù Cang Chải",
     "country": "Vietnam",
     "rating": "3.65",
-    "image": "/images/9-resized.png",
+    "image": "https://images.unsplash.com/photo-1609412058473-c199497c3c5d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bSVDMyVCOSUyMGNhbmclMjBjaCVFMSVCQSVBM2l8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "description": "Get off the beaten path in this rural district where the rice paddy-terraced mountains and twisting streams will make you feel like you’re living in a fairy tale.",
     "travelCost": "5133"
   },
@@ -85,7 +85,7 @@
     "name": "Borobudur",
     "country": "Indonesia",
     "rating": "3.61",
-    "image": "/images/10-resized.png",
+    "image": "https://images.unsplash.com/photo-1584810359583-96fc3448beaa?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Ym9yb2J1ZHVyfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "description": "Borobudur dates from the 9th century and is one of the largest Buddhist temples in the world. ",
     "travelCost": "9265"
   },
@@ -94,7 +94,7 @@
     "name": "Hamnøy",
     "country": "Norway",
     "rating": "4.81",
-    "image": "/images/11-resized.png",
+    "image": "https://images.unsplash.com/photo-1542321994-0df81c449c17?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aGFtbiVDMyVCOHlhfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "description": "Hamnøy in Lofoten has become known, the world over, for its impressive landscape and unspoilt charm… and it’s easy to see why.",
     "travelCost": "9015"
   },
@@ -103,7 +103,7 @@
     "name": "The Matterhorn",
     "country": "Switzerland",
     "rating": "4.27",
-    "image": "/images/12-resized.png",
+    "image": "https://images.unsplash.com/photo-1540637170921-4fb2f7fc48de?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dGhlJTIwbWF0dGVyaG9ybnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "description": "The Matterhorn, Switzerland's iconic pointed peak is one of the highest mountains in the Alps.",
     "travelCost": "10455"
   },
@@ -112,7 +112,7 @@
     "name": "Maroon Bells",
     "country": "USA",
     "rating": "4.22",
-    "image": "/images/13-resized.png",
+    "image": "https://images.unsplash.com/photo-1503587489374-94b2c3345c5e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWFyb29uJTIwYmVsbHN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "description": "The Maroon Bells are two 14,000-foot peaks in the Elk Mountains that are reflected in crystal-clear Maroon Lake, snuggled in a glacial valley.",
     "travelCost": "11455"
   },
@@ -121,7 +121,7 @@
     "name": "Grand Canyon",
     "country": "USA",
     "rating": "4.52",
-    "image": "/images/14-resized.png",
+    "image": "https://images.unsplash.com/photo-1516302350523-4c29d47b89e0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Z3JhbmQlMjBjYW55b258ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "description": "The Grand Canyon is a steep, 1-mile-deep, and up to 18-mile-wide gash in the fabric of the world, an immense gorge carved by the Colorado River over the last 5,000 years.",
     "travelCost": "10855"
   },
@@ -130,8 +130,35 @@
     "name": "Blue Ridge Mountains",
     "country": "USA",
     "rating": "4.12",
-    "image": "/images/15-resized.png",
+    "image": "https://images.unsplash.com/photo-1574079630059-3b6cc5834483?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ymx1ZSUyMHJpZGdlJTIwbW91bnRhaW5zfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     "description": "The Blue Ridge Mountains stretch from their southernmost end in Georgia all the way northward to Pennsylvania.",
     "travelCost": "10055"
+  },
+  {
+    "id": 16,
+    "name": "South Island",
+    "country": "New Zealand",
+    "rating": "4.00",
+    "image": "https://images.unsplash.com/photo-1598054436918-9b75b5bd6fcc?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHNvdXRoJTIwaXNsYW5kfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "description": "The South Island of New Zealand is renowned for its mountains, lakes and glaciers.",
+    "travelCost": "5055"
+  },
+  {
+    "id": 17,
+    "name": "The Great Barrier Reef",
+    "country": "Australia",
+    "rating": "4.02",
+    "image": "https://www.busytourist.com/wp-content/uploads/2019/06/Great-Barrier-Reef-Australia.jpg.webp",
+    "description": "The Great Barrier Reef is one of the undisputed best vacation spots for anyone who wants the opportunity to glimpse one of the most incredible marvels of nature.",
+    "travelCost": "1655"
+  },
+  {
+    "id": 18,
+    "name": "Plitvice Lakes",
+    "country": "Croatia",
+    "rating": "3.92",
+    "image": "https://www.busytourist.com/wp-content/uploads/2019/06/Plitvice-Lakes-Croatia.jpg.webp",
+    "description": "The Plitvice Lakes can be found on Croatia’s Adriatic Sea coast, just lingering on the border between Zadar and the nation’s capital, Zagreb.",
+    "travelCost": "1955"
   }
 ]

@@ -24,5 +24,14 @@ main {
 }
 .favorites {
   width: 20%;
+  height: fit-content;
   min-width: 300px;
+  overflow: hidden;
+  border-radius: 10px;
+  border: 2px solid cornflowerblue;
+}
+.favorites-title {
+  background-color: cornflowerblue;
+  color: white;
+  padding: 10px;
 }
