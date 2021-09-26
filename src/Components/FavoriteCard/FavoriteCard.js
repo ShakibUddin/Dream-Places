@@ -2,11 +2,12 @@ import React from 'react';
 import './FavoriteCard.css';
 
 const FavoriteCard = (props) => {
-    let { name, country, image, description, rating, travelCost } = props.place;
+    //destructuring props
+    let { name, country, image } = props.place;
     return (
-        <div className="favorite-card">
+        <div className="favorite-card animate__bounceIn">
             <img className="favorite-image" src={process.env.PUBLIC_URL + image} alt="" />
-            <p>{name},{country}</p>
+            <p>{name}</p>
         </div>
     );
 };

@@ -10,12 +10,14 @@ function App() {
   let [totalSelected, setTotalSelected] = useState(0);
   let [totalCost, setTotalCost] = useState(0);
 
+  //fetching data
   useEffect(() => {
     fetch("./places.json")
       .then(res => res.json())
       .then(data => setPlaces(data));
   }, []);
 
+  //event handler when Add To Favorite is clicked
   function favoriteHandler(place) {
     console.log(place.name);
     setTotalSelected(totalSelected + 1);

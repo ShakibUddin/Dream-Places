@@ -1,15 +1,21 @@
 .banner {
-  width: 90vw;
-  padding: 40px 0;
-  margin: 20px auto;
-  border-radius: 10px;
-  background-color: #0984e3;
+  width: 100%;
+  height: 350px;
+  margin: 0 auto 20px;
+  background-image: url("./banner-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-y: center;
+}
+.banner-content {
   color: white;
+  padding: 20px;
 }
 .banner-title {
   display: inline-block;
   font-size: 3rem;
   font-weight: bold;
+  color: black;
 }
 .banner-quote {
   font-weight: bold;
