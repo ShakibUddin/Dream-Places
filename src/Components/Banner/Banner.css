@@ -1,0 +1,17 @@
+.banner {
+  width: 90vw;
+  padding: 40px 0;
+  margin: 20px auto;
+  border-radius: 10px;
+  background-color: purple;
+  color: white;
+}
+.banner-title {
+  display: inline-block;
+  font-size: 3rem;
+  font-weight: bold;
+}
+.banner-quote {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
