@@ -6,6 +6,7 @@ const Banner = () => {
         <div className="banner">
             <p className='banner-title'>Dream Places</p>
             <p className='banner-quote'><q>Places to visit when I get Rich</q></p>
+            <h2>Budget: $100000</h2>
         </div>
     );
 };

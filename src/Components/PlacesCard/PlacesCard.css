@@ -9,6 +9,7 @@
   padding: 10px;
   margin: 10px;
   background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 .image {
   width: 100%;
@@ -29,4 +30,7 @@
   overflow: hidden;
   text-overflow: ellipsis;
   max-lines: 2;
+}
+.place-content span {
+  font-weight: bolder;
 }

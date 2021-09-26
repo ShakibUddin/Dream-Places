@@ -6,7 +6,7 @@
     "rating": "4.72",
     "image": "/images/1-resized.png",
     "description": "Mecca, in a desert valley in western Saudi Arabia, is Islam’s holiest city, as it’s the birthplace of the Prophet Muhammad and the faith itself.",
-    "travelCost": "$5728"
+    "travelCost": "5728"
   },
   {
     "id": 2,
@@ -14,8 +14,8 @@
     "country": "Indonesia",
     "rating": "3.20",
     "image": "/images/2-resized.png",
-    "description": "You’ll find beaches, volcanoes, Komodo dragons and jungles sheltering elephants, orangutans and tigers. Basically, it’s paradise. It’s likely you’ve seen an image of Bali on social media at least once in the past seven days, as it’s such a popular bucket list destination for 2019.",
-    "travelCost": "$6436"
+    "description": "You’ll find beaches, volcanoes, Komodo dragons and jungles sheltering elephants, orangutans and tigers. Basically, it’s paradise. ",
+    "travelCost": "6436"
   },
   {
     "id": 3,
@@ -23,8 +23,8 @@
     "country": "Canada & USA",
     "rating": "3.13",
     "image": "/images/3-resized.png",
-    "description": "Walk up to the edge of the falls, stroll along the paved walk lining the gorge for different views, or take a boat tour for a close-up look at the water pouring over the lip of the gorge above you. ",
-    "travelCost": "$3228"
+    "description": "Walk up to the edge of the falls, or take a boat tour for a close-up look at the water pouring over the lip of the gorge above you. ",
+    "travelCost": "3228"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "rating": "4.67",
     "image": "/images/4-resized.png",
     "description": "The highest peak in all of Africa, this majestic mountain - a dormant volcano - is one of the most recognizable symbols of the continent.",
-    "travelCost": "$6886"
+    "travelCost": "6886"
   },
   {
     "id": 5,
@@ -41,8 +41,8 @@
     "country": "China",
     "rating": "3.82",
     "image": "/images/5-resized.png",
-    "description": "Like the Great Wall, the Forbidden City in Beijing is one of the top places to visit in China. The sprawling complex dates from the 14th and 15th centuries and is a spectacular example of historical China.",
-    "travelCost": "$2424"
+    "description": "Like the Great Wall, the Forbidden City in Beijing is one of the top places to visit in China. ",
+    "travelCost": "2424"
   },
   {
     "id": 6,
@@ -50,8 +50,8 @@
     "country": "England",
     "rating": "3.54",
     "image": "/images/6-resized.png",
-    "description": "EngStonehenge is one of those places that makes you ponder what went on here over 4,500 years ago. It's long been a mystery to historians, and has captured the imagination of countless visitors.land",
-    "travelCost": "$6018"
+    "description": "EngStonehenge is one of those places that makes you ponder what went on here over 4,500 years ago.",
+    "travelCost": "6018"
   },
   {
     "id": 7,
@@ -59,8 +59,8 @@
     "country": "Canada",
     "rating": "3.27",
     "image": "/images/7-resized.png",
-    "description": "The glacial lakes in Canada's first national park have some of the bluest water you've ever seen. Even if you're not particularly outdoorsy, you can still admire the views from one of the cozy and luxurious lakeside lodges throughout the park, like the Fairmont Chateau Lake Louise.",
-    "travelCost": "$2581"
+    "description": "The glacial lakes in Canada's first national park have some of the bluest water you've ever seen. ",
+    "travelCost": "2581"
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "rating": "4.40",
     "image": "/images/8-resized.png",
     "description": "Put every infinity pool you’ve ever seen to shame with these natural, snow-white hot springs overlooking the nearby city of Denizli. ",
-    "travelCost": "$8749"
+    "travelCost": "8749"
   },
   {
     "id": 9,
@@ -78,7 +78,7 @@
     "rating": "3.65",
     "image": "/images/9-resized.png",
     "description": "Get off the beaten path in this rural district where the rice paddy-terraced mountains and twisting streams will make you feel like you’re living in a fairy tale.",
-    "travelCost": "$5133"
+    "travelCost": "5133"
   },
   {
     "id": 10,
@@ -86,8 +86,8 @@
     "country": "Indonesia",
     "rating": "3.61",
     "image": "/images/10-resized.png",
-    "description": "Borobudur dates from the 9th century and is one of the largest Buddhist temples in the world. It's a fascinating place to wander about. Over 500 Buddhas are spread around the site, some of which sit under ornate stupas.",
-    "travelCost": "$9265"
+    "description": "Borobudur dates from the 9th century and is one of the largest Buddhist temples in the world. ",
+    "travelCost": "9265"
   },
   {
     "id": 11,
@@ -95,8 +95,8 @@
     "country": "Norway",
     "rating": "4.81",
     "image": "/images/11-resized.png",
-    "description": "Hamnøy in Lofoten has become known, the world over, for its impressive landscape and unspoilt charm… and it’s easy to see why. Possibly one of the best places in Norway – it’s a spot you should definitely head to without hesitation.",
-    "travelCost": "$9015"
+    "description": "Hamnøy in Lofoten has become known, the world over, for its impressive landscape and unspoilt charm… and it’s easy to see why.",
+    "travelCost": "9015"
   },
   {
     "id": 12,
@@ -104,7 +104,7 @@
     "country": "Switzerland",
     "rating": "4.27",
     "image": "/images/12-resized.png",
-    "description": "The Matterhorn, Switzerland's iconic pointed peak is one of the highest mountains in the Alps. On the border with Italy, this legendary peak rises to 4,478 meters, and its four steep faces lie in the direction of the compass points.",
-    "travelCost": "$10455"
+    "description": "The Matterhorn, Switzerland's iconic pointed peak is one of the highest mountains in the Alps.",
+    "travelCost": "10455"
   }
 ]
